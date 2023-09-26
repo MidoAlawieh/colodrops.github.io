@@ -1,0 +1,18 @@
+:root {
+    --primary: #4187FF;
+    --secondary-light: #11437880;
+    --primary-hover: #3076EE;
+    --secondary: #114378;
+    --light-blue: #E2E5EE;
+    --text-disable: #E6E6E6;
+    --white-overlay: #E6E6E650;
+    --background-overlay: #01010150;
+    --text-white: #fff;
+    --text-title: #2E2E2E;
+    --text-body: #808080;
+    --padding-side: 104px;
+    --heading-big-font: 64px;
+    --text-body-text: #666;
+    --text-title-text: #333;
+    --secondary-soft-green: #F4F7F9;
+}
